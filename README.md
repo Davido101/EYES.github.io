@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
     <head>
-        <title>EYES</title>
         <link rel="icon" type="image/x-icon" href="eye-icon.ico">
     </head>
     <body style="background: #000;">
